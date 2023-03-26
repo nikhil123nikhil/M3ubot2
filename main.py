@@ -2,8 +2,8 @@ from pyrogram import Client, filters
 from utils import check_user, multi_rec, getChannels
 
 app = Client(
-    "TG_m3u_bot_Conan76",
-    bot_token = "5501542300:AAHGuQQ3UjvVeJzOAe-wKh4v5nJVTGdtZ2I",
+    "Deepika_Love_Bot",
+    bot_token = "6144406425:AAGpo7qViUrsJsChanO0105XTO5wmu_YodM",
     api_id = 17038143,
     api_hash = "c1705f4cf711329ea025772dfd7057e0"
 )
@@ -38,7 +38,7 @@ def show_channels_handler(app, message):
 def start_handler(app, message):
 
     if len(message.text.split()) < 3:
-        message.reply_text("<b>A Telegram bot by Team Toon-Nation</b>\n\n<b>Made with Love by @conan7612</b>")
+        message.reply_text("<b>A Telegram Top 1 Bot In India</b>")
         return
     # Don't remove Conan76 from here, Resepct the Developer...
     
