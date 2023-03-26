@@ -3,7 +3,7 @@ from utils import check_user, multi_rec, getChannels
 
 app = Client(
     "TG_m3u_bot_Conan76",
-    bot_token = "5570084115:AAHKp7_DyntWYa21ja2duAmqbu2iJc28gTM",
+    bot_token = "5501542300:AAHGuQQ3UjvVeJzOAe-wKh4v5nJVTGdtZ2I",
     api_id = 17038143,
     api_hash = "c1705f4cf711329ea025772dfd7057e0"
 )
